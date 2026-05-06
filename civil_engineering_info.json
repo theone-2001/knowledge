@@ -1,0 +1,26 @@
+{
+  "category": "토목 및 인허가",
+  "keyRegulations": {
+    "integratedPermit": "건축허가 시 개발행위/농지전용 등 의제처리",
+    "slopeLimit": {
+      "Cheoin-gu": "25도 이하",
+      "Giheung-gu": "21도 이하",
+      "Suji-gu": "17.5도 이하"
+    },
+    "roadWidth": {
+      "under5000sqm": "4m 이상",
+      "over5000sqm": "6m 이상",
+      "over30000sqm": "8m 이상"
+    }
+  },
+  "timelines": {
+    "reviewPeriod": "협의회 개최 후 15~20일 내 의견 제출",
+    "constructionDeadline": "허가 후 2년 내 착공 필수 (공장 3년)",
+    "extension": "최대 1년 연장 가능"
+  },
+  "operationalChecklist": [
+    "농지보전부담금 및 산지전용비 예산 편성",
+    "대형 차량 진출입을 위한 회전 반경(6-8m) 확보",
+    "2m 초과 옹벽 축조 신고 및 배수 시설 설계"
+  ]
+}
