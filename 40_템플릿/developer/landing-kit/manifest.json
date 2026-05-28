@@ -25,7 +25,9 @@
     "런칭"
   ],
   "dependencies": {
-    "production": ["lucide-react"],
+    "production": [
+      "lucide-react"
+    ],
     "dev": []
   },
   "tested_with": {
@@ -33,10 +35,6 @@
     "react": "^19",
     "tailwindcss": "^4"
   },
-  "apply": {
-    "copy_to": "src/components/",
-    "post_install": ["npm install lucide-react"],
-    "app_imports": ["Hero", "Features", "Pricing", "FAQ", "CTA", "Footer"],
-    "app_body": "<Hero /><Features /><Pricing /><FAQ /><CTA /><Footer />"
-  }
+  "_injectedAt": "2026-05-28T02:58:03.372Z",
+  "_injectedFrom": "ezer-ai"
 }
